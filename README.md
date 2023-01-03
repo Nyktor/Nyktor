@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nyktor
-- 👀 I’m interested in improve this README.md at some point
-- 🌱 I’m currently learning self-taught(coding and computer science)
-- 💞️ I’m looking to collaborate on nothing or some easy projects to learn
+- 👀 I’m interested in: improve this README.md at some point
+- 🌱 I’m currently learning: self-taught(coding and computer science)
+- 💞️ I’m looking to collaborate on: nothing or some easy projects to learn
 - 📫 How to reach me: try
 
 <!---
