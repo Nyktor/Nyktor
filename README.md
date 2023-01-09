@@ -19,6 +19,7 @@ I also like videogames, anime and kitties.
 * Internet concepts like HTTP and stuff
 * HTML + CSS + JavaScript
 * Databases, SQL & stuff
+* Python
 * More complex DSA
 * M a t h
 
@@ -26,6 +27,7 @@ I also like videogames, anime and kitties.
 * Cryptography
 * Cybersecurity
 * Game Development
+* Assembly language (maybe...?)
 
 <!---
 Nyktor/Nyktor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
