@@ -1,7 +1,5 @@
 # 👋 Hi, I’m @Nyktor
-I'm a total absolute fucking INTP nerd that is interested in programming and computer science.
-
-And because I hate Spain's education system, I'm learning by myself.
+I'm a total absolute fucking INTP nerd that is interested in programming and computer science. And because I hate Spain's education system, I'm learning by myself.
 
 I upload my progress here.
 ## ✨ Interests
