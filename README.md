@@ -1,16 +1,15 @@
-# 👋 Hi, I’m @Nyktor
+# Hi, I’m @Nyktor 👋
 I'm a total absolute fucking INTP nerd that is interested in programming and computer science. And because I hate Spain's education system, I'm learning by myself.
 
 I upload my progress here.
-## ✨ Interests
+## Interests ✨
 Programming and puter science. I enjoy **solving puzzles** and learning new things. The more mentally challenging, the better.
 
 I also like videogames, anime and kitties.
-## 🌱 Learnings (self-taught)
+## Learnings (self-taught) 🌱
 **Currently learnt/learning:**
-* C
-* C++
-* Java (OOP)
+* C and C++
+* Java 
 * Git + GitHub
 * Linux OS (Debian 11 "Bullseye" distro)
 * Basic, simple DSA
