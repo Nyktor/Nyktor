@@ -9,13 +9,13 @@ I also like videogames, anime and kitties.
 ## 🌱 Learnings (self-taught)
 **Currently learnt/learning:**
 * C
+* C++
 * Java (OOP)
 * Git + GitHub
 * Linux OS (Debian 11 "Bullseye" distro)
 * Basic, simple DSA
 
 **Future plans on learning:**
-* C++
 * Internet concepts like HTTP and stuff
 * HTML + CSS + JavaScript
 * Databases, SQL & stuff
