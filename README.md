@@ -13,6 +13,7 @@ I also like videogames, anime and kitties.
 * Git + GitHub
 * Linux OS (Debian 11 "Bullseye" distro)
 * Basic, simple DSA
+* Regex
 
 **Future plans on learning:**
 * Internet concepts like HTTP and stuff
