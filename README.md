@@ -14,6 +14,7 @@ I also like videogames, anime and kitties.
 * Linux OS (Debian 11 "Bullseye" distro)
 * Basic, simple DSA
 * Regex
+* Cybersecurity
 
 **Future plans on learning:**
 * Internet concepts like HTTP and stuff
@@ -25,7 +26,6 @@ I also like videogames, anime and kitties.
 
 **Things that I do NOT discard learning:**
 * Cryptography
-* Cybersecurity
 * Game Development
 * Assembly language (maybe...?)
 
