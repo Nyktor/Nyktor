@@ -1,5 +1,5 @@
 # Hi, I’m @Nyktor 👋
-I'm a total absolute INTP nerd that is interested in programming and computer science. I'm learning by myself, self-taught.
+I'm a total absolute INTP nerd that is interested in programming and computer science. Self-taught but also working towards university.
 
 I upload my progress here.
 ## Interests ✨
@@ -8,20 +8,17 @@ Programming and puter science. I enjoy **solving puzzles** and learning new thin
 I also like videogames, anime and kitties.
 ## Learnings (self-taught) 🌱
 **Currently learnt/learning:**
-* C and C++
-* Java 
+* Programming languanges: C, C++, Java
 * Git + GitHub
-* Linux OS (Debian 11 "Bullseye" distro)
-* Basic, simple DSA
-* Regex
-* Cybersecurity
+* Operating Systems: Windows (Client+Server), Ubuntu (Client+Server), Kali Linux
+* Networking: Services (DNS, DHCP, Apache/IIS...), OSI Layers + Packet Tracer, Subnetting...
+* Webpages: HTML, CSS, PHP
+* Databases: SQL, MySQL % MySQLWorkbench
+* Cybersecurity: EVERYTHING, I'M ON IT!!
 
 **Future plans on learning:**
-* Internet concepts like HTTP and stuff
-* HTML + CSS + JavaScript
-* Databases, SQL & stuff
 * Python
-* More complex DSA
+* DSA
 * M a t h
 
 **Things that I do NOT discard learning:**
